@@ -86,3 +86,4 @@ production:
   database: appointment_app_backend_production
   username: appointment_app_backend
   password: <%= ENV["APPOINTMENT_APP_BACKEND_DATABASE_PASSWORD"] %>
+  url: <%= ENV['DATABASE_URL'] %>
