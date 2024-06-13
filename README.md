@@ -148,7 +148,7 @@ To run tests, run the following command:
 
 ## API Documentation
 
-- [Live API docs](https://appointment-app-backend-62lj.onrender.com/api-docs/index.html)
+- [Live api docs](https://appointment-app-backend-62lj.onrender.com/api-docs/index.html)
 
 ```sh
   localhost:3000/api-docs
