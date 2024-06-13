@@ -71,8 +71,8 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Version <a name="live-demo"></a>
-- [Live](https://morb-appointment-app.netlify.app)
 
+- [Live](https://morb-appointment-app.netlify.app)
 
 <!-- - [Budget App](https://budget-app-mp1a.onrender.com) -->
 
