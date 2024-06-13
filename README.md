@@ -72,7 +72,7 @@
 
 ## 🚀 Live Version <a name="live-demo"></a>
 - [Live](https://morb-appointment-app.netlify.app)
-- [API docs](https://appointment-app-backend-62lj.onrender.com/api-docs/index.html)
+
 
 <!-- - [Budget App](https://budget-app-mp1a.onrender.com) -->
 
@@ -147,6 +147,8 @@ To run tests, run the following command:
 ```
 
 ## API Documentation
+
+- [Live API docs](https://appointment-app-backend-62lj.onrender.com/api-docs/index.html)
 
 ```sh
   localhost:3000/api-docs
