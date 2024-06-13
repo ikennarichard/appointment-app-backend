@@ -71,7 +71,8 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Version <a name="live-demo"></a>
-- TBA
+- [Live](https://morb-appointment-app.netlify.app)
+- [API docs](https://appointment-app-backend-62lj.onrender.com/api-docs/index.html)
 
 <!-- - [Budget App](https://budget-app-mp1a.onrender.com) -->
 
